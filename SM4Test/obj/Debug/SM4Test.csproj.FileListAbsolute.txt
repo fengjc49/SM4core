@@ -1,0 +1,12 @@
+C:\Users\fengj\source\repos\SM4\SM4Test\bin\Debug\SM4Test.exe.config
+C:\Users\fengj\source\repos\SM4\SM4Test\bin\Debug\SM4Test.exe
+C:\Users\fengj\source\repos\SM4\SM4Test\bin\Debug\SM4Test.pdb
+C:\Users\fengj\source\repos\SM4\SM4Test\obj\Debug\SM4Test.Form1.resources
+C:\Users\fengj\source\repos\SM4\SM4Test\obj\Debug\SM4Test.Properties.Resources.resources
+C:\Users\fengj\source\repos\SM4\SM4Test\obj\Debug\SM4Test.csproj.GenerateResource.cache
+C:\Users\fengj\source\repos\SM4\SM4Test\obj\Debug\SM4Test.csproj.CoreCompileInputs.cache
+C:\Users\fengj\source\repos\SM4\SM4Test\obj\Debug\SM4Test.exe
+C:\Users\fengj\source\repos\SM4\SM4Test\obj\Debug\SM4Test.pdb
+C:\Users\fengj\source\repos\SM4\SM4Test\obj\Debug\SM4Test.csprojAssemblyReference.cache
+C:\Users\fengj\source\repos\SM4\SM4Test\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\fengj\source\repos\SM4\SM4Test\obj\Debug\SM4Test.csproj.CopyComplete

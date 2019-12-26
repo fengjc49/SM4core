@@ -1,0 +1,11 @@
+C:\Users\fengj\source\repos\SM4\SM4Core\bin\Debug\netcoreapp2.2\SM4Core.deps.json
+C:\Users\fengj\source\repos\SM4\SM4Core\bin\Debug\netcoreapp2.2\SM4Core.runtimeconfig.json
+C:\Users\fengj\source\repos\SM4\SM4Core\bin\Debug\netcoreapp2.2\SM4Core.runtimeconfig.dev.json
+C:\Users\fengj\source\repos\SM4\SM4Core\bin\Debug\netcoreapp2.2\SM4Core.dll
+C:\Users\fengj\source\repos\SM4\SM4Core\bin\Debug\netcoreapp2.2\SM4Core.pdb
+C:\Users\fengj\source\repos\SM4\SM4Core\obj\Debug\netcoreapp2.2\SM4Core.csprojAssemblyReference.cache
+C:\Users\fengj\source\repos\SM4\SM4Core\obj\Debug\netcoreapp2.2\SM4Core.csproj.CoreCompileInputs.cache
+C:\Users\fengj\source\repos\SM4\SM4Core\obj\Debug\netcoreapp2.2\SM4Core.AssemblyInfoInputs.cache
+C:\Users\fengj\source\repos\SM4\SM4Core\obj\Debug\netcoreapp2.2\SM4Core.AssemblyInfo.cs
+C:\Users\fengj\source\repos\SM4\SM4Core\obj\Debug\netcoreapp2.2\SM4Core.dll
+C:\Users\fengj\source\repos\SM4\SM4Core\obj\Debug\netcoreapp2.2\SM4Core.pdb
